@@ -1,0 +1,37 @@
+/* body */
+hr{
+    border: 1px solid #070707;
+    width: 50%;
+    margin-left: 25% !important;
+    margin-right: 25% !important;
+    margin: auto;
+}
+/* aboutme */
+.card{
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.about{
+    margin: 15px;
+    float: left;
+}
+.container{
+    margin-left: 10px;
+}
+.row-1{
+    margin-left: 15px;
+}
+/* portfolio */
+.portfolio{
+    margin: 15px;
+    float: left;
+}
+img{
+    margin: auto;
+    padding: 10px;
+    height: auto;
+    width: 100%;
+}
+/* contact */
